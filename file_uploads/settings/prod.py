@@ -22,9 +22,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__fil
 SECRET_KEY = '&2!&-j=e6%9xa46@i5cu6@x&2qsla(o2a=zgmm!aa*saqxti4c'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['nashe-taxi.su', 'dups.nashe-taxi.su']
 
 # Application definition
 
