@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 import os
 import zipfile
 from wsgiref.util import FileWrapper
